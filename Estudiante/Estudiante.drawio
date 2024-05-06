@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2024-05-06T06:10:31.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.3.1" etag="7lgkJd4GlmY_9wUbkx7F" type="device">
+  <diagram id="X_BR07i5L50ZzqcssyGR" name="Página-1">
+    <mxGraphModel dx="1386" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VyG1_B54ku_l1-FWBnyh-1" value="Estudiante" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VyG1_B54ku_l1-FWBnyh-2" value="String name&lt;div&gt;int age&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;double score&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VyG1_B54ku_l1-FWBnyh-3" value="mostrar name();&lt;div&gt;mostrar age();&lt;/div&gt;&lt;div&gt;mostrar score();&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="280" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
